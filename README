@@ -1,0 +1,20 @@
+Informações
+-------------------------------------
+Trabalho realizado pelo aluno Giovanni F. P. Rosário, para a disciplina Estrutura de Dados Básicas II;
+Profª Silvia Maria Diniz Monteiro Maia;
+
+
+Compilação
+-------------------------------------
+O programa deve ser compilado através do comando:
+	g++ -std=c++0x main.cpp abb.cpp -o teste
+e deve ser iniciado através do comando:
+	./teste
+
+
+Funcionamento
+-------------------------------------
+O programa funciona com auxilio de dois arquivos .txt separados:
+	o arquivo "arquivo_de_entrada_ABB.txt" que é todos os elementos da ABB devem ser inseridos
+	e o arquivo "arquivo_de_comandos.txt" que é o arquivo onde os comandos devem ser inseridos, linha a linha;
+Ao ser executado, o programa imprime na tela a as informações, linha a linha, dos comandos propostos.
